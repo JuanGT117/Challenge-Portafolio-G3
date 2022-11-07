@@ -1,0 +1,22 @@
+:root{
+    --fondo-pag:#ededed;
+    --fondo-gris:#F5F5F5;
+    --fondo-azul: #EAF2FD;
+    --fondo-gris-img:#ededed;
+    --fondo-azul-btn:#2a7ae4;
+    --color-letras:#464646;
+    --font-rawelay:'Raleway', sans-serif;
+    --color-letras-azul:#2A7AE4;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: var(--fondo-gris);
+    font-family: var(--font-rawelay);
+}
